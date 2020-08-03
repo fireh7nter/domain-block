@@ -1,2 +1,2 @@
 # domain-block
-domain blocked as per dns query flooding
+invalid-domain - list of domain which are queried a lot (dns query flooding)
